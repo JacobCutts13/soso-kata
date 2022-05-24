@@ -26,5 +26,8 @@
     "test": "jest",
     "test:watch": "jest --watchAll",
     "type-check": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@types/mocha": "^9.1.1"
   }
 }
